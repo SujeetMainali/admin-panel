@@ -1,0 +1,20 @@
+node js
+
+database:
+mongoDB
+
+
+packages:
+Express js
+mongoose
+EJS
+Multer(Image Uploading)
+Express Session (Storing session Messages)
+Dotenv ( Environment Variables)
+Nodemon
+
+Frontend:
+Bootstrap
+Data table (pagination, Storing etc..)
+fontawesome(Icons)
+
